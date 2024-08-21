@@ -10,4 +10,4 @@ https://github.com/itsvar8/vial-qmk/tree/5_4_macropad/keyboards/5_4_macropad
 https://github.com/itsvar8/vial-qmk/tree/cornepad/keyboards/handwired/cornepad
 
 ![CSTC40](https://github.com/user-attachments/assets/0bcfb274-fb40-439b-bbdf-b9da738ba2c0)
-https://github.com/itsvar8/vial-qmk/blob/cstc40/keyboards/kprepublic/cstc40/readme.md
+https://github.com/itsvar8/vial-qmk/blob/cstc40/keyboards/kprepublic/cstc40
